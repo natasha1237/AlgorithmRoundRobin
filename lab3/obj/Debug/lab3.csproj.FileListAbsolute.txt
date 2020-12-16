@@ -1,0 +1,7 @@
+C:\Users\natal\OneDrive\Рабочий стол\KPI IP-81\3 курс 2020-21\OS\lab3\lab3\bin\Debug\lab3.exe.config
+C:\Users\natal\OneDrive\Рабочий стол\KPI IP-81\3 курс 2020-21\OS\lab3\lab3\bin\Debug\lab3.exe
+C:\Users\natal\OneDrive\Рабочий стол\KPI IP-81\3 курс 2020-21\OS\lab3\lab3\bin\Debug\lab3.pdb
+C:\Users\natal\OneDrive\Рабочий стол\KPI IP-81\3 курс 2020-21\OS\lab3\lab3\obj\Debug\lab3.csprojAssemblyReference.cache
+C:\Users\natal\OneDrive\Рабочий стол\KPI IP-81\3 курс 2020-21\OS\lab3\lab3\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+C:\Users\natal\OneDrive\Рабочий стол\KPI IP-81\3 курс 2020-21\OS\lab3\lab3\obj\Debug\lab3.exe
+C:\Users\natal\OneDrive\Рабочий стол\KPI IP-81\3 курс 2020-21\OS\lab3\lab3\obj\Debug\lab3.pdb
